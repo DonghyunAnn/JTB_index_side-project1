@@ -1,1 +1,1 @@
-# JTB_index_side-project1
+# 사이드 프로젝트1: JTB Index (종목토론방 인덱스)
